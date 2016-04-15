@@ -8,13 +8,11 @@ from peewee import *
 from test import Proxy
 import logging
 import threading
+import multiprocessing
+import os
 from Queue import Queue
 
 logging.basicConfig(filename='stack.log', level=logging.INFO)
-
-rlock1 = threading.RLock()
-rlock2 = threading.RLock()
-rlock3 = threading.RLock()
 
 mongo_conn = pymongo.MongoClient('localhost', 27017)
 mongo_db = mongo_conn['stackcrawler']
@@ -62,10 +60,11 @@ class Question(BaseModel):
 
 def requests_get(page, fromdate=None, todate=None, headers=None, proxies=None):
     url = 'https://api.stackexchange.com/questions?site=stackoverflow'
-    # payload['sort'] = 'hot'
+    payload['sort'] = 'hot'
     payload['pagesize'] = 100
     payload['page'] = page
-    print threading.currentThread().getName()+'  Crawling  PAGE '+str(page)
+    # print threading.currentThread().getName()+'  Crawling  PAGE '+str(page)
+    print str(os.getpid())+'  Crawling  PAGE '+str(page)
     logging.info('  PAGE '+str(page))
     if fromdate:
         payload['fromdate'] = fromdate
@@ -85,9 +84,7 @@ def get_pros(start_id):
     return ret
 
 
-def crawl_stack(start_id=1):
-    global queue
-    global visited_pages
+def crawl_stack(ns, queue, rlock1, rlock2, rlock3,  start_id=1):
     pros = get_pros(start_id)
 
     if pros:
@@ -112,18 +109,21 @@ def crawl_stack(start_id=1):
                           'last_edit_date', 'closed_date', 'closed_reason']
 
         for i in range(len(pros)):
-            print threading.currentThread().getName()+'  PROXY '+str(pros[i]['ip'])+'  ID '+str(pros[i]['id'])
+            # print threading.currentThread().getName()+'  PROXY '+str(pros[i]['ip'])+'  ID '+str(pros[i]['id'])
+            print str(os.getpid())+'  PROXY '+str(pros[i]['ip'])+'  ID '+str(pros[i]['id'])
             logging.info('PROXY '+str(pros[i]['ip'])+'  ID '+str(pros[i]['id']))
             while True:
                 # 从queue中取出page 检查是否已被爬过，如果已被爬过:continue
                 if rlock1.acquire():
                     if not queue.empty():
                         page = queue.get()
+                        visited_pages = ns.visited_pages
                         if page in visited_pages:
                             queue.task_done()
                             rlock1.release()
                             continue
                         visited_pages.add(page)
+                        ns.visited_pages = visited_pages
                         rlock1.release()
                     else:
                         rlock1.release()
@@ -138,15 +138,18 @@ def crawl_stack(start_id=1):
                                            proxies={'https': 'https://%s:%s' % (pros[i]['ip'], pros[i]['port'])})
                 except Exception:
                     logging.exception('message')
-                    print threading.currentThread().getName()+'  Crawling EXCEPTION --------------------------------------------'
+                    # print threading.currentThread().getName()+'  Crawling EXCEPTION --------------------------------------------'
+                    print str(os.getpid())+'  Crawling EXCEPTION --------------------------------------------'
                 c_finish = datetime.now()
-                print threading.currentThread().getName()+'  PAGE'+str(page)+' 抓取时间: '+str(c_finish-c_start)
+                # print threading.currentThread().getName()+'  PAGE'+str(page)+' 抓取时间: '+str(c_finish-c_start)
+                print str(os.getpid())+'  PAGE'+str(page)+' 抓取时间: '+str(c_finish-c_start)
 
                 # 抓取网页成功
                 if res:
                     if res.status_code == 200:
                         count += 1
-                        print threading.currentThread().getName()+'  Crawling SUCCESS PAGE'+str(page)
+                        # print threading.currentThread().getName()+'  Crawling SUCCESS PAGE'+str(page)
+                        print str(os.getpid())+'  Crawling SUCCESS PAGE'+str(page)
                         logging.info('  Crawling SUCCESS')
 
                         # 解析res,保存抓下来的数据
@@ -154,12 +157,17 @@ def crawl_stack(start_id=1):
                         # question tags存入MongoDB
                         if rlock2.acquire():
                             start_time = datetime.now()
-                            bulk = mongo_db.questiontags.initialize_unordered_bulk_op()
-                            for item in items:
-                                bulk.find({'question_id': item['question_id']}).upsert().update({'$set': {'tags': item.get('tags', '')}}),
-                            bulk.execute()
+                            try:
+                                bulk = mongo_db.questiontags.initialize_unordered_bulk_op()
+                                for item in items:
+                                    bulk.find({'question_id': item['question_id']}).upsert().update({'$set': {'tags': item.get('tags', '')}})
+
+                                bulk.execute()
+                            except:
+                                logging.exception('message')
                             end_time = datetime.now()
-                            print threading.currentThread().getName()+'  PAGE'+str(page)+'  mongodb bulk upsert finishes, consumes: '+str(end_time-start_time)
+                            # print threading.currentThread().getName()+'  PAGE'+str(page)+'  mongodb bulk upsert finishes, consumes: '+str(end_time-start_time)
+                            print str(os.getpid())+'  PAGE'+str(page)+'  mongodb bulk upsert finishes, consumes: '+str(end_time-start_time)
                             logging.info('  MongoDB inserts consumes: '+str(end_time-start_time))
                             rlock2.release()
 
@@ -184,11 +192,13 @@ def crawl_stack(start_id=1):
                                 #     Question.insert_many(items).execute()
 
                                 end_time = datetime.now()
-                                print threading.currentThread().getName()+'  PAGE'+str(page)+'  mysql bulk insert finishes, consumes: '+str(end_time-start_time)
+                                # print threading.currentThread().getName()+'  PAGE'+str(page)+'  mysql bulk insert finishes, consumes: '+str(end_time-start_time)
+                                print str(os.getpid())+'  PAGE'+str(page)+'  mysql bulk insert finishes, consumes: '+str(end_time-start_time)
                                 logging.info('  MySQL inserts consumes: '+str(end_time-start_time))
                             except IntegrityError:
                                 logging.exception('message')
-                                print threading.currentThread().getName()+'  PAGE'+str(page)+'  mysql bulk insert exception'
+                                # print threading.currentThread().getName()+'  PAGE'+str(page)+'  mysql bulk insert exception'
+                                print str(os.getpid())+'  PAGE'+str(page)+'  mysql bulk insert exception'
                             rlock3.release()
                         queue.task_done()
 
@@ -203,27 +213,51 @@ def crawl_stack(start_id=1):
                             return
                     # 抓取网页未返回200
                     elif res.status_code != 200:
-                        print threading.currentThread().getName()+'PAGE'+str(page)+'  Crawling FAILURE  RES '+str(res.status_code)+' ~~~~~~~~~~~'
+                        # print threading.currentThread().getName()+'PAGE'+str(page)+'  Crawling FAILURE  RES '+str(res.status_code)+' ~~~~~~~~~~~'
+                        print str(os.getpid())+'PAGE'+str(page)+'  Crawling FAILURE  RES '+str(res.status_code)+' ~~~~~~~~~~~'
                         logging.info('Crawling FAILURE RES '+str(res.status_code))
                         break
                     # break
 
-        crawl_stack(end_id+1)
+        crawl_stack(ns, queue, rlock1, rlock2, rlock3,  end_id+1)
     else:
         return
 
-visited_pages = set()
-queue = Queue()
+# visited_pages = set()
+# queue = Queue()
+
+# rlock1 = threading.RLock()
+# rlock2 = threading.RLock()
+# rlock3 = threading.RLock()
+
+manager = multiprocessing.Manager()
+ns = manager.Namespace()
+ns.visited_pages = set()
+queue = manager.Queue()
+# rlocks = manager.list([manager.RLock() for _ in range(3)])
+rlock1 = manager.RLock()
+rlock2 = manager.RLock()
+rlock3 = manager.RLock()
 
 
 def main():
-    global queue
     queue.put(1)
+    # for i in range(3):
+    #     t = threading.Thread(
+    #       name='thread-'+str(i+1), target=crawl_stack, args=(1,))
+    #     t.setDaemon(True)
+    #     t.start()
+    processes = []
     for i in range(3):
-        t = threading.Thread(name='thread-'+str(i+1), target=crawl_stack, args=(1,))
-        t.setDaemon(True)
-        t.start()
+        process = multiprocessing.Process(
+            target=crawl_stack, args=(ns, queue, rlock1, rlock2, rlock3,  1))
+        # process.daemon = True
+        process.start()
+        processes.append(process)
+    for process in processes:
+        process.join()
     queue.join()
+    return
 
 
 def test_web(page):

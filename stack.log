@@ -18757,3 +18757,2145 @@ INFO:root:  MongoDB inserts consumes: 0:00:00.008325
 INFO:root:  MySQL inserts consumes: 0:00:00.044510
 INFO:root:  PAGE 61
 INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.029222
+INFO:root:  MySQL inserts consumes: 0:00:00.137786
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.027309
+INFO:root:  MongoDB inserts consumes: 0:00:00.010438
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009306
+INFO:root:  MySQL inserts consumes: 0:00:00.146911
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.052094
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.053194
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.031989
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.027818
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.026398
+INFO:root:  MySQL inserts consumes: 0:00:00.177901
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.129711
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.115646
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.028982
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018223
+INFO:root:  MySQL inserts consumes: 0:00:00.123479
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.019866
+INFO:root:  MySQL inserts consumes: 0:00:00.136879
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.117300
+INFO:root:  PAGE 13
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.019797
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.027793
+INFO:root:  MySQL inserts consumes: 0:00:00.167447
+INFO:root:  PAGE 14
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.020728
+INFO:root:  MySQL inserts consumes: 0:00:00.147384
+INFO:root:  PAGE 15
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.143451
+INFO:root:  PAGE 16
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.022417
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016160
+INFO:root:  MySQL inserts consumes: 0:00:00.136148
+INFO:root:  PAGE 17
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018110
+INFO:root:  MySQL inserts consumes: 0:00:00.145152
+INFO:root:  PAGE 18
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.127226
+INFO:root:  PAGE 19
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.032439
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.022942
+INFO:root:  MySQL inserts consumes: 0:00:00.136755
+INFO:root:  PAGE 20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016110
+INFO:root:  MySQL inserts consumes: 0:00:00.143762
+INFO:root:  PAGE 21
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.110067
+INFO:root:  PAGE 22
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017714
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.120502
+INFO:root:  PAGE 23
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.045477
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.019879
+INFO:root:  MySQL inserts consumes: 0:00:00.128157
+INFO:root:  PAGE 24
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.113610
+INFO:root:  PAGE 25
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017681
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.124848
+INFO:root:  PAGE 26
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.036185
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.023815
+INFO:root:  MySQL inserts consumes: 0:00:00.137808
+INFO:root:  PAGE 27
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.117818
+INFO:root:  PAGE 28
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011410
+INFO:root:  MySQL inserts consumes: 0:00:00.114996
+INFO:root:  PAGE 29
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015823
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.126819
+INFO:root:  PAGE 30
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.035515
+INFO:root:  MySQL inserts consumes: 0:00:00.121497
+INFO:root:  PAGE 31
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012423
+INFO:root:  MySQL inserts consumes: 0:00:00.065599
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010491
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011371
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009505
+INFO:root:  MySQL inserts consumes: 0:00:00.079975
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.054807
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.054090
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009531
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011661
+INFO:root:  MySQL inserts consumes: 0:00:00.061373
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009858
+INFO:root:  MySQL inserts consumes: 0:00:00.062167
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.048759
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007933
+INFO:root:  MySQL inserts consumes: 0:00:00.044490
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008089
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008999
+INFO:root:  MySQL inserts consumes: 0:00:00.066112
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.055574
+INFO:root:  PAGE 13
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007844
+INFO:root:  MySQL inserts consumes: 0:00:00.046660
+INFO:root:  PAGE 14
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008559
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014774
+INFO:root:  MySQL inserts consumes: 0:00:00.065562
+INFO:root:  PAGE 15
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051716
+INFO:root:  PAGE 16
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007829
+INFO:root:  MySQL inserts consumes: 0:00:00.048046
+INFO:root:  PAGE 17
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008217
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.054458
+INFO:root:  PAGE 18
+INFO:root:  MongoDB inserts consumes: 0:00:00.009032
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.061384
+INFO:root:  PAGE 19
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008100
+INFO:root:  MySQL inserts consumes: 0:00:00.047148
+INFO:root:  PAGE 20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007997
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010189
+INFO:root:  MySQL inserts consumes: 0:00:00.060675
+INFO:root:  PAGE 21
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.050073
+INFO:root:  PAGE 22
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009262
+INFO:root:  MySQL inserts consumes: 0:00:00.049717
+INFO:root:  PAGE 23
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008008
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.058475
+INFO:root:  MongoDB inserts consumes: 0:00:00.011378
+INFO:root:  PAGE 24
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051264
+INFO:root:  PAGE 25
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010161
+INFO:root:  MySQL inserts consumes: 0:00:00.046917
+INFO:root:  PAGE 26
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008230
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.060162
+INFO:root:  PAGE 27
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.009020
+INFO:root:  MySQL inserts consumes: 0:00:00.046924
+INFO:root:  PAGE 28
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010016
+INFO:root:  MySQL inserts consumes: 0:00:00.049561
+INFO:root:  PAGE 29
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008208
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010703
+INFO:root:  MySQL inserts consumes: 0:00:00.062118
+INFO:root:  PAGE 30
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.052247
+INFO:root:  PAGE 31
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016862
+INFO:root:  MySQL inserts consumes: 0:00:00.107967
+INFO:root:  PAGE 32
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.021043
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018136
+INFO:root:  MySQL inserts consumes: 0:00:00.123511
+INFO:root:  PAGE 33
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.113016
+INFO:root:  PAGE 34
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.041610
+INFO:root:  MySQL inserts consumes: 0:00:00.130879
+INFO:root:  PAGE 35
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.020809
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017113
+INFO:root:  MySQL inserts consumes: 0:00:00.121981
+INFO:root:  PAGE 36
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.128783
+INFO:root:  PAGE 37
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016015
+INFO:root:  MySQL inserts consumes: 0:00:00.113677
+INFO:root:  PAGE 38
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.021072
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.019461
+INFO:root:  MySQL inserts consumes: 0:00:00.125675
+INFO:root:  PAGE 39
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.113946
+INFO:root:  PAGE 40
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015763
+INFO:root:  MySQL inserts consumes: 0:00:00.112269
+INFO:root:  PAGE 41
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.022937
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.021674
+INFO:root:  MySQL inserts consumes: 0:00:00.123646
+INFO:root:  PAGE 42
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.118004
+INFO:root:  PAGE 43
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.026359
+INFO:root:  MySQL inserts consumes: 0:00:00.109042
+INFO:root:  PAGE 44
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018747
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015133
+INFO:root:  MySQL inserts consumes: 0:00:00.125064
+INFO:root:  PAGE 45
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.120836
+INFO:root:  PAGE 46
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017910
+INFO:root:  MySQL inserts consumes: 0:00:00.107761
+INFO:root:  PAGE 47
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011430
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012521
+INFO:root:  MySQL inserts consumes: 0:00:00.132660
+INFO:root:  PAGE 48
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.128736
+INFO:root:  PAGE 49
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016035
+INFO:root:  MySQL inserts consumes: 0:00:00.118860
+INFO:root:  PAGE 50
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014250
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017504
+INFO:root:  MySQL inserts consumes: 0:00:00.141556
+INFO:root:  PAGE 51
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.112625
+INFO:root:  PAGE 52
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010593
+INFO:root:  MySQL inserts consumes: 0:00:00.121930
+INFO:root:  PAGE 53
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014740
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.123099
+INFO:root:  PAGE 54
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.018054
+INFO:root:  MySQL inserts consumes: 0:00:00.117846
+INFO:root:  PAGE 55
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016550
+INFO:root:  MySQL inserts consumes: 0:00:00.112051
+INFO:root:  PAGE 56
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.013193
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016589
+INFO:root:  MySQL inserts consumes: 0:00:00.144652
+INFO:root:  PAGE 57
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.109643
+INFO:root:  PAGE 58
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.021628
+INFO:root:  MySQL inserts consumes: 0:00:00.129447
+INFO:root:  PAGE 59
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016345
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.013888
+INFO:root:  MySQL inserts consumes: 0:00:00.124411
+INFO:root:  PAGE 60
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.113648
+INFO:root:  PAGE 61
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011330
+INFO:root:  MySQL inserts consumes: 0:00:00.111584
+INFO:root:  PAGE 62
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.021076
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011482
+INFO:root:  MySQL inserts consumes: 0:00:00.122065
+INFO:root:  PAGE 63
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.113557
+INFO:root:  PAGE 64
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014815
+INFO:root:  MySQL inserts consumes: 0:00:00.110438
+INFO:root:  PAGE 65
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014683
+INFO:root:  MySQL inserts consumes: 0:00:00.112305
+INFO:root:  PAGE 66
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.031807
+INFO:root:  MySQL inserts consumes: 0:00:00.108320
+INFO:root:  PAGE 67
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014790
+INFO:root:  MySQL inserts consumes: 0:00:00.126722
+INFO:root:  PAGE 68
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.020814
+INFO:root:  MySQL inserts consumes: 0:00:00.110627
+INFO:root:  PAGE 69
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015748
+INFO:root:  MySQL inserts consumes: 0:00:00.114605
+INFO:root:  PAGE 70
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.013919
+INFO:root:  MySQL inserts consumes: 0:00:00.106768
+INFO:root:  PAGE 71
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.013924
+INFO:root:  MySQL inserts consumes: 0:00:00.104894
+INFO:root:  PAGE 72
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015707
+INFO:root:  MySQL inserts consumes: 0:00:00.109506
+INFO:root:  PAGE 73
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015400
+INFO:root:  MySQL inserts consumes: 0:00:00.112333
+INFO:root:  PAGE 74
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010011
+INFO:root:  MySQL inserts consumes: 0:00:00.109328
+INFO:root:  PAGE 75
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010012
+INFO:root:  MySQL inserts consumes: 0:00:00.112529
+INFO:root:  PAGE 76
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016290
+INFO:root:  MySQL inserts consumes: 0:00:00.121191
+INFO:root:  PAGE 77
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011053
+INFO:root:  MySQL inserts consumes: 0:00:00.129229
+INFO:root:  Crawling SUCCESS
+INFO:root:  PAGE 78
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.018320
+INFO:root:  MySQL inserts consumes: 0:00:00.108510
+INFO:root:  PAGE 79
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016132
+INFO:root:  MySQL inserts consumes: 0:00:00.109356
+INFO:root:  PAGE 80
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012681
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014157
+INFO:root:  MySQL inserts consumes: 0:00:00.127399
+INFO:root:  PAGE 81
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.115163
+INFO:root:  PAGE 82
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018685
+INFO:root:  MySQL inserts consumes: 0:00:00.109891
+INFO:root:  PAGE 83
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018015
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.118461
+INFO:root:  PAGE 84
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.013329
+INFO:root:  MySQL inserts consumes: 0:00:00.112463
+INFO:root:  PAGE 85
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018915
+INFO:root:  MySQL inserts consumes: 0:00:00.113701
+INFO:root:  PAGE 86
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011938
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014040
+INFO:root:  MySQL inserts consumes: 0:00:00.124280
+INFO:root:  PAGE 87
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.121324
+INFO:root:  PAGE 88
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014307
+INFO:root:  MySQL inserts consumes: 0:00:00.115791
+INFO:root:  PAGE 89
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014896
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.060868
+INFO:root:  MySQL inserts consumes: 0:00:00.166002
+INFO:root:  PAGE 90
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.141206
+INFO:root:  PAGE 91
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011477
+INFO:root:  MySQL inserts consumes: 0:00:00.115640
+INFO:root:  PAGE 92
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014035
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.148805
+INFO:root:  PAGE 93
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.025767
+INFO:root:  MySQL inserts consumes: 0:00:00.117414
+INFO:root:  PAGE 94
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015390
+INFO:root:  MySQL inserts consumes: 0:00:00.114976
+INFO:root:  PAGE 95
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012079
+INFO:root:  MySQL inserts consumes: 0:00:00.120209
+INFO:root:  PAGE 96
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016857
+INFO:root:  MySQL inserts consumes: 0:00:00.116587
+INFO:root:  PAGE 97
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014020
+INFO:root:  MySQL inserts consumes: 0:00:00.114609
+INFO:root:  PAGE 98
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016470
+INFO:root:  MySQL inserts consumes: 0:00:00.117973
+INFO:root:  PAGE 99
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017014
+INFO:root:  MySQL inserts consumes: 0:00:00.113501
+INFO:root:  PAGE 100
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.030061
+INFO:root:  MySQL inserts consumes: 0:00:00.145068
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.024349
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.037916
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.046948
+INFO:root:  MySQL inserts consumes: 0:00:00.126017
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.102039
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.100103
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018320
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014224
+INFO:root:  MySQL inserts consumes: 0:00:00.097245
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018994
+INFO:root:  MySQL inserts consumes: 0:00:00.112946
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.097400
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.020641
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018773
+INFO:root:  MySQL inserts consumes: 0:00:00.102267
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.020778
+INFO:root:  MySQL inserts consumes: 0:00:00.118194
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.106136
+INFO:root:  PAGE 13
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015782
+INFO:root:  MySQL inserts consumes: 0:00:00.091818
+INFO:root:  PAGE 14
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015411
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.022749
+INFO:root:  MySQL inserts consumes: 0:00:00.100207
+INFO:root:  PAGE 15
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.093755
+INFO:root:  PAGE 16
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012262
+INFO:root:  MySQL inserts consumes: 0:00:00.117963
+INFO:root:  PAGE 17
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015354
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.099959
+INFO:root:  PAGE 18
+INFO:root:  MongoDB inserts consumes: 0:00:00.026219
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.089443
+INFO:root:  PAGE 19
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017488
+INFO:root:  MySQL inserts consumes: 0:00:00.089045
+INFO:root:  Crawling SUCCESS
+INFO:root:  PAGE 20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.023838
+INFO:root:  MySQL inserts consumes: 0:00:00.075427
+INFO:root:  PAGE 21
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012475
+INFO:root:  MySQL inserts consumes: 0:00:00.124792
+INFO:root:  PAGE 22
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010229
+INFO:root:  MySQL inserts consumes: 0:00:00.053847
+INFO:root:  PAGE 23
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009844
+INFO:root:  MySQL inserts consumes: 0:00:00.052498
+INFO:root:  PAGE 24
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007704
+INFO:root:  MySQL inserts consumes: 0:00:00.055992
+INFO:root:  PAGE 25
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008440
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010703
+INFO:root:  MySQL inserts consumes: 0:00:00.046704
+INFO:root:  PAGE 26
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051032
+INFO:root:  PAGE 27
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008287
+INFO:root:  MySQL inserts consumes: 0:00:00.048291
+INFO:root:  PAGE 28
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007847
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010632
+INFO:root:  MySQL inserts consumes: 0:00:00.052328
+INFO:root:  PAGE 29
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.052310
+INFO:root:  PAGE 30
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008250
+INFO:root:  MySQL inserts consumes: 0:00:00.047339
+INFO:root:  PAGE 31
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008203
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011355
+INFO:root:  MySQL inserts consumes: 0:00:00.051972
+INFO:root:  PAGE 32
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018941
+INFO:root:  MySQL inserts consumes: 0:00:00.100549
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017532
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015751
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009987
+INFO:root:  MySQL inserts consumes: 0:00:00.084504
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.054114
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.081739
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009602
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.013083
+INFO:root:  MySQL inserts consumes: 0:00:00.071486
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.062450
+INFO:root:  MongoDB inserts consumes: 0:00:00.010454
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.059383
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007868
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011511
+INFO:root:  MySQL inserts consumes: 0:00:00.054490
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.053391
+INFO:root:  MongoDB inserts consumes: 0:00:00.008811
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.050319
+INFO:root:  PAGE 13
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015685
+INFO:root:  MySQL inserts consumes: 0:00:00.052483
+INFO:root:  PAGE 14
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007563
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.051102
+INFO:root:  MongoDB inserts consumes: 0:00:00.009429
+INFO:root:  PAGE 15
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.049105
+INFO:root:  PAGE 16
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008314
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.051950
+INFO:root:  MongoDB inserts consumes: 0:00:00.009353
+INFO:root:  PAGE 17
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.054141
+INFO:root:  Crawling SUCCESS
+INFO:root:  PAGE 18
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.010682
+INFO:root:  MySQL inserts consumes: 0:00:00.050898
+INFO:root:  PAGE 19
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007665
+INFO:root:  MySQL inserts consumes: 0:00:00.050311
+INFO:root:  Crawling SUCCESS
+INFO:root:  PAGE 20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.008237
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.051227
+INFO:root:  MongoDB inserts consumes: 0:00:00.011369
+INFO:root:  PAGE 21
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051568
+INFO:root:  PAGE 22
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007693
+INFO:root:  MySQL inserts consumes: 0:00:00.052319
+INFO:root:  PAGE 23
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010863
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012557
+INFO:root:  MySQL inserts consumes: 0:00:00.084155
+INFO:root:  PAGE 24
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.046890
+INFO:root:  PAGE 25
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015075
+INFO:root:  MySQL inserts consumes: 0:00:00.073638
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012737
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015522
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.057496
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.016677
+INFO:root:  MySQL inserts consumes: 0:00:00.056374
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.045924
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009498
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.048664
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.029658
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.013731
+INFO:root:  MySQL inserts consumes: 0:00:00.053453
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.049808
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.037645
+INFO:root:  MySQL inserts consumes: 0:00:00.043444
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.023671
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011388
+INFO:root:  MySQL inserts consumes: 0:00:00.051215
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051529
+INFO:root:  PAGE 13
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010292
+INFO:root:  MySQL inserts consumes: 0:00:00.049549
+INFO:root:  PAGE 14
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009619
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014804
+INFO:root:  MySQL inserts consumes: 0:00:00.050526
+INFO:root:  PAGE 15
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.045970
+INFO:root:  PAGE 16
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008179
+INFO:root:  MySQL inserts consumes: 0:00:00.048918
+INFO:root:  PAGE 17
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009512
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009004
+INFO:root:  MySQL inserts consumes: 0:00:00.050541
+INFO:root:  PAGE 18
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.047828
+INFO:root:  PAGE 19
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010197
+INFO:root:  MySQL inserts consumes: 0:00:00.046775
+INFO:root:  PAGE 20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011803
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.045144
+INFO:root:  PAGE 21
+INFO:root:  MongoDB inserts consumes: 0:00:00.009726
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.048575
+INFO:root:  PAGE 22
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008094
+INFO:root:  MySQL inserts consumes: 0:00:00.046675
+INFO:root:  PAGE 23
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007599
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011730
+INFO:root:  MySQL inserts consumes: 0:00:00.051190
+INFO:root:  PAGE 24
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051067
+INFO:root:  PAGE 25
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007976
+INFO:root:  MySQL inserts consumes: 0:00:00.049680
+INFO:root:  PAGE 26
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008218
+INFO:root:  MySQL inserts consumes: 0:00:00.045816
+INFO:root:  PAGE 27
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007801
+INFO:root:  MySQL inserts consumes: 0:00:00.050510
+INFO:root:  PAGE 28
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008186
+INFO:root:  MySQL inserts consumes: 0:00:00.046085
+INFO:root:  PAGE 29
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008872
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.043833
+INFO:root:  MongoDB inserts consumes: 0:00:00.008890
+INFO:root:  PAGE 30
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.049562
+INFO:root:  PAGE 31
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011194
+INFO:root:  MySQL inserts consumes: 0:00:00.049863
+INFO:root:  PAGE 32
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008071
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.045409
+INFO:root:  MongoDB inserts consumes: 0:00:00.011989
+INFO:root:  PAGE 33
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.055430
+INFO:root:  PAGE 34
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008173
+INFO:root:  MySQL inserts consumes: 0:00:00.051597
+INFO:root:  PAGE 35
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008006
+INFO:root:  MySQL inserts consumes: 0:00:00.048770
+INFO:root:  PAGE 36
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010189
+INFO:root:  MySQL inserts consumes: 0:00:00.080307
+INFO:root:  PAGE 37
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008062
+INFO:root:  MySQL inserts consumes: 0:00:00.047914
+INFO:root:  PAGE 38
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008274
+INFO:root:  MySQL inserts consumes: 0:00:00.049461
+INFO:root:  PAGE 39
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010856
+INFO:root:  MySQL inserts consumes: 0:00:00.057301
+INFO:root:  PAGE 40
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010326
+INFO:root:  MySQL inserts consumes: 0:00:00.053229
+INFO:root:  PAGE 41
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007982
+INFO:root:  MySQL inserts consumes: 0:00:00.050275
+INFO:root:  PAGE 42
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009150
+INFO:root:  MySQL inserts consumes: 0:00:00.052492
+INFO:root:  PAGE 43
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008871
+INFO:root:  MySQL inserts consumes: 0:00:00.052838
+INFO:root:  PAGE 44
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014323
+INFO:root:  MySQL inserts consumes: 0:00:00.052074
+INFO:root:  PAGE 45
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008380
+INFO:root:  MySQL inserts consumes: 0:00:00.049706
+INFO:root:  PAGE 46
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008492
+INFO:root:  MySQL inserts consumes: 0:00:00.046925
+INFO:root:  PAGE 47
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009958
+INFO:root:  MySQL inserts consumes: 0:00:00.054209
+INFO:root:  PAGE 48
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008137
+INFO:root:  MySQL inserts consumes: 0:00:00.062146
+INFO:root:  PAGE 49
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008168
+INFO:root:  MySQL inserts consumes: 0:00:00.053348
+INFO:root:  PAGE 50
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007988
+INFO:root:  MySQL inserts consumes: 0:00:00.045162
+INFO:root:  PAGE 51
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008226
+INFO:root:  MySQL inserts consumes: 0:00:00.052535
+INFO:root:  PAGE 52
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009241
+INFO:root:  MySQL inserts consumes: 0:00:00.051876
+INFO:root:  PAGE 53
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008556
+INFO:root:  MySQL inserts consumes: 0:00:00.048058
+INFO:root:  PAGE 54
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008227
+INFO:root:  MySQL inserts consumes: 0:00:00.074615
+INFO:root:  PAGE 55
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008153
+INFO:root:  MySQL inserts consumes: 0:00:00.073789
+INFO:root:  PAGE 56
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009402
+INFO:root:  MySQL inserts consumes: 0:00:00.072481
+INFO:root:  PAGE 57
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008581
+INFO:root:  MySQL inserts consumes: 0:00:00.050832
+INFO:root:  PAGE 58
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008088
+INFO:root:  MySQL inserts consumes: 0:00:00.045797
+INFO:root:  PAGE 59
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009479
+INFO:root:  MySQL inserts consumes: 0:00:00.048965
+INFO:root:  PAGE 60
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010026
+INFO:root:  MySQL inserts consumes: 0:00:00.050420
+INFO:root:  PAGE 61
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007967
+INFO:root:  MySQL inserts consumes: 0:00:00.046889
+INFO:root:  Crawling SUCCESS
+INFO:root:  PAGE 62
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.008098
+INFO:root:  MySQL inserts consumes: 0:00:00.046304
+INFO:root:  PAGE 63
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008012
+INFO:root:  MySQL inserts consumes: 0:00:00.048387
+INFO:root:  PAGE 64
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008002
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010255
+INFO:root:  MySQL inserts consumes: 0:00:00.053702
+INFO:root:  PAGE 65
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.049184
+INFO:root:  PAGE 66
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008646
+INFO:root:  MySQL inserts consumes: 0:00:00.048307
+INFO:root:  PAGE 67
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008108
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012460
+INFO:root:  MySQL inserts consumes: 0:00:00.053381
+INFO:root:  PAGE 68
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.047504
+INFO:root:  PAGE 69
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008117
+INFO:root:  MySQL inserts consumes: 0:00:00.050788
+INFO:root:  PAGE 70
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008096
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.051186
+INFO:root:  MongoDB inserts consumes: 0:00:00.012573
+INFO:root:  PAGE 71
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.046768
+INFO:root:  PAGE 72
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009205
+INFO:root:  MySQL inserts consumes: 0:00:00.051619
+INFO:root:  PAGE 73
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008011
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009156
+INFO:root:  MySQL inserts consumes: 0:00:00.051561
+INFO:root:  PAGE 74
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.046161
+INFO:root:  PAGE 75
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008285
+INFO:root:  MySQL inserts consumes: 0:00:00.049456
+INFO:root:  PAGE 76
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007962
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010096
+INFO:root:  MySQL inserts consumes: 0:00:00.048803
+INFO:root:  PAGE 77
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.056094
+INFO:root:  PAGE 78
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007517
+INFO:root:  MySQL inserts consumes: 0:00:00.052295
+INFO:root:  PAGE 79
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008409
+INFO:root:  MySQL inserts consumes: 0:00:00.045263
+INFO:root:  Crawling SUCCESS
+INFO:root:  PAGE 80
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.010094
+INFO:root:  MySQL inserts consumes: 0:00:00.046987
+INFO:root:  PAGE 81
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009265
+INFO:root:  MySQL inserts consumes: 0:00:00.047987
+INFO:root:  PAGE 82
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008521
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009128
+INFO:root:  MySQL inserts consumes: 0:00:00.049691
+INFO:root:  PAGE 83
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.046851
+INFO:root:  PAGE 84
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008401
+INFO:root:  MySQL inserts consumes: 0:00:00.047045
+INFO:root:  PAGE 85
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009968
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009634
+INFO:root:  MySQL inserts consumes: 0:00:00.046225
+INFO:root:  PAGE 86
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.050012
+INFO:root:  PAGE 87
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007945
+INFO:root:  MySQL inserts consumes: 0:00:00.052752
+INFO:root:  PAGE 88
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008256
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012448
+INFO:root:  MySQL inserts consumes: 0:00:00.050791
+INFO:root:  PAGE 89
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.045993
+INFO:root:  PAGE 90
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007370
+INFO:root:  MySQL inserts consumes: 0:00:00.050116
+INFO:root:  PAGE 91
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008019
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.051389
+INFO:root:  MongoDB inserts consumes: 0:00:00.010921
+INFO:root:  PAGE 92
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.055379
+INFO:root:  PAGE 93
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.009666
+INFO:root:  MySQL inserts consumes: 0:00:00.047364
+INFO:root:  PAGE 94
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008040
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009337
+INFO:root:  MySQL inserts consumes: 0:00:00.044858
+INFO:root:  PAGE 95
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.045254
+INFO:root:  PAGE 96
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.012531
+INFO:root:  MySQL inserts consumes: 0:00:00.050932
+INFO:root:  PAGE 97
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008456
+INFO:root:  MongoDB inserts consumes: 0:00:00.012082
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.051840
+INFO:root:  PAGE 98
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.013462
+INFO:root:  MySQL inserts consumes: 0:00:00.073014
+INFO:root:  PAGE 99
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.050153
+INFO:root:  PAGE 100
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008218
+INFO:root:  MySQL inserts consumes: 0:00:00.047329
+INFO:root:  PAGE 101
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007931
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012782
+INFO:root:  MySQL inserts consumes: 0:00:00.052561
+INFO:root:  PAGE 102
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051655
+INFO:root:  PAGE 103
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008190
+INFO:root:  MySQL inserts consumes: 0:00:00.045110
+INFO:root:  PAGE 104
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008459
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009034
+INFO:root:  MySQL inserts consumes: 0:00:00.050231
+INFO:root:  PAGE 105
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.055381
+INFO:root:  PAGE 106
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008063
+INFO:root:  MySQL inserts consumes: 0:00:00.049520
+INFO:root:  PAGE 107
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008417
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010098
+INFO:root:  MySQL inserts consumes: 0:00:00.048416
+INFO:root:  PAGE 108
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.050676
+INFO:root:  PAGE 109
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015234
+INFO:root:  MySQL inserts consumes: 0:00:00.072945
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 2
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 3
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010525
+INFO:root:  MySQL inserts consumes: 0:00:00.057075
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017138
+INFO:root:  MySQL inserts consumes: 0:00:00.052748
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008253
+INFO:root:  MySQL inserts consumes: 0:00:00.050819
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010441
+INFO:root:  MySQL inserts consumes: 0:00:00.050528
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012820
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009758
+INFO:root:  MySQL inserts consumes: 0:00:00.054903
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.052248
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008264
+INFO:root:  MySQL inserts consumes: 0:00:00.059445
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008459
+INFO:root:  MySQL inserts consumes: 0:00:00.051841
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008406
+INFO:root:  MySQL inserts consumes: 0:00:00.053084
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.016324
+INFO:root:  MySQL inserts consumes: 0:00:00.086032
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008000
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017072
+INFO:root:  MySQL inserts consumes: 0:00:00.054894
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.014522
+INFO:root:  MySQL inserts consumes: 0:00:00.053011
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.045205
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008384
+INFO:root:  MySQL inserts consumes: 0:00:00.049346
+INFO:root:  PAGE 8
+INFO:root:  Crawling SUCCESS
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.007704
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010044
+INFO:root:  MySQL inserts consumes: 0:00:00.052294
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051255
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007966
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009295
+INFO:root:  MySQL inserts consumes: 0:00:00.044883
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010492
+INFO:root:  MySQL inserts consumes: 0:00:00.044045
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.049936
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018302
+INFO:root:  MySQL inserts consumes: 0:00:00.138397
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012367
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014692
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.017754
+INFO:root:  MySQL inserts consumes: 0:00:00.129006
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.108897
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.110742
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009780
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015199
+INFO:root:  MySQL inserts consumes: 0:00:00.120022
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.113777
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009712
+INFO:root:  MySQL inserts consumes: 0:00:00.114890
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010205
+INFO:root:  MySQL inserts consumes: 0:00:00.108426
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012592
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010630
+INFO:root:  MySQL inserts consumes: 0:00:00.113203
+INFO:root:  MySQL inserts consumes: 0:00:00.122071
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.013282
+INFO:root:  MySQL inserts consumes: 0:00:00.072165
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 3
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 2
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014076
+INFO:root:  MySQL inserts consumes: 0:00:00.066962
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008837
+INFO:root:  MySQL inserts consumes: 0:00:00.058940
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011372
+INFO:root:  MySQL inserts consumes: 0:00:00.057628
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008504
+INFO:root:  MySQL inserts consumes: 0:00:00.046180
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008914
+INFO:root:  MySQL inserts consumes: 0:00:00.050683
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009076
+INFO:root:  MySQL inserts consumes: 0:00:00.057950
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008497
+INFO:root:  MySQL inserts consumes: 0:00:00.048933
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.047336
+INFO:root:  MySQL inserts consumes: 0:00:00.139696
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018185
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018315
+INFO:root:  MongoDB inserts consumes: 0:00:00.017839
+INFO:root:  MySQL inserts consumes: 0:00:00.116532
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.076123
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.111701
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008024
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.051050
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.013807
+INFO:root:  MySQL inserts consumes: 0:00:00.059960
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009621
+INFO:root:  MySQL inserts consumes: 0:00:00.073752
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010173
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.074476
+INFO:root:  PAGE 11
+INFO:root:  MongoDB inserts consumes: 0:00:00.009949
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.049871
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007959
+INFO:root:  MySQL inserts consumes: 0:00:00.049707
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.002249
+INFO:root:  MySQL inserts consumes: 0:00:00.000217
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.000759
+INFO:root:  MySQL inserts consumes: 0:00:00.000235
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.012189
+INFO:root:  MySQL inserts consumes: 0:00:00.062486
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010115
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014003
+INFO:root:  MySQL inserts consumes: 0:00:00.060985
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.061073
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009898
+INFO:root:  MySQL inserts consumes: 0:00:00.049426
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008638
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009512
+INFO:root:  MySQL inserts consumes: 0:00:00.050188
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.049154
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011172
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.052865
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.008137
+INFO:root:  MySQL inserts consumes: 0:00:00.046247
+INFO:root:  Crawling SUCCESS
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.013890
+INFO:root:  MySQL inserts consumes: 0:00:00.053083
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.002287
+INFO:root:  MySQL inserts consumes: 0:00:00.000206
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.000657
+INFO:root:  MySQL inserts consumes: 0:00:00.000205
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007920
+INFO:root:  MySQL inserts consumes: 0:00:00.052065
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.020038
+INFO:root:  MySQL inserts consumes: 0:00:00.105557
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011217
+INFO:root:  Crawling SUCCESS
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.084637
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.024920
+INFO:root:  MongoDB inserts consumes: 0:00:00.016417
+INFO:root:  MySQL inserts consumes: 0:00:00.059913
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.054836
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.009138
+INFO:root:  MySQL inserts consumes: 0:00:00.058210
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007756
+INFO:root:  MySQL inserts consumes: 0:00:00.055104
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010956
+INFO:root:  MySQL inserts consumes: 0:00:00.047808
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008141
+INFO:root:  MySQL inserts consumes: 0:00:00.043363
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007450
+INFO:root:  MySQL inserts consumes: 0:00:00.052159
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007388
+INFO:root:  MySQL inserts consumes: 0:00:00.053126
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.002277
+INFO:root:  MySQL inserts consumes: 0:00:00.000268
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.000706
+INFO:root:  MySQL inserts consumes: 0:00:00.000218
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.018760
+INFO:root:  MySQL inserts consumes: 0:00:00.068329
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008358
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014233
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.015127
+INFO:root:  MySQL inserts consumes: 0:00:00.054623
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.051889
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.046022
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007982
+INFO:root:  MySQL inserts consumes: 0:00:00.046568
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.010600
+INFO:root:  MySQL inserts consumes: 0:00:00.048872
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007957
+INFO:root:  MySQL inserts consumes: 0:00:00.047422
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007799
+INFO:root:  MySQL inserts consumes: 0:00:00.042964
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007834
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.046511
+INFO:root:  MongoDB inserts consumes: 0:00:00.008321
+INFO:root:  MySQL inserts consumes: 0:00:00.047995
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.002188
+INFO:root:  MySQL inserts consumes: 0:00:00.000210
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.000673
+INFO:root:  MySQL inserts consumes: 0:00:00.000213
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:PROXY 195.229.210.184  ID 2
+INFO:root:  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.011015
+INFO:root:  MySQL inserts consumes: 0:00:00.059735
+INFO:root:  PAGE 2
+INFO:root:  PAGE 3
+INFO:root:  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008321
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.014123
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.057351
+INFO:root:  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MongoDB inserts consumes: 0:00:00.015533
+INFO:root:  MySQL inserts consumes: 0:00:00.052239
+INFO:root:  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.054321
+INFO:root:  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008176
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.047223
+INFO:root:  MongoDB inserts consumes: 0:00:00.010853
+INFO:root:  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MySQL inserts consumes: 0:00:00.050734
+INFO:root:  MongoDB inserts consumes: 0:00:00.008579
+INFO:root:  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  MySQL inserts consumes: 0:00:00.055933
+INFO:root:  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007822
+INFO:root:  MySQL inserts consumes: 0:00:00.050919
+INFO:root:  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.007811
+INFO:root:  MySQL inserts consumes: 0:00:00.049345
+INFO:root:  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:  Crawling SUCCESS
+INFO:root:  MongoDB inserts consumes: 0:00:00.008206
+INFO:root:  MySQL inserts consumes: 0:00:00.051630
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.002341
+INFO:root:  MySQL inserts consumes: 0:00:00.000256
+INFO:root:  Crawling SUCCESS
+ERROR:root:message
+Traceback (most recent call last):
+  File "stack.py", line 165, in crawl_stack
+    bulk.execute()
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 582, in execute
+    return self.__bulk.execute(write_concern)
+  File "/Users/qinanlan/.virtualenvs/github/lib/python2.7/site-packages/pymongo/bulk.py", line 416, in execute
+    raise InvalidOperation('No operations to execute')
+InvalidOperation: No operations to execute
+INFO:root:  MongoDB inserts consumes: 0:00:00.001133
+INFO:root:  MySQL inserts consumes: 0:00:00.000369
