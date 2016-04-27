@@ -277,3 +277,501 @@ INFO:root:82716  PAGE45 抓取时间: 0:01:12.568514
 INFO:root:82716  PROXY 109.69.2.125  ID 4
 INFO:root:82716  Crawling  PAGE 48
 INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PROXY 195.229.210.184  ID 2
+INFO:root:2722  PROXY 195.229.210.184  ID 2
+INFO:root:2723  PROXY 195.229.210.184  ID 2
+INFO:root:2723  Crawling  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE1 抓取时间: 0:00:01.613460
+INFO:root:2723  Crawling SUCCESS PAGE1
+INFO:root:2723  PAGE1  mongodb bulk upsert finishes, consumes: 0:00:00.030270
+INFO:root:2723  PAGE1  mysql bulk insert finishes, consumes: 0:00:00.185915
+INFO:root:2722  Crawling  PAGE 2
+INFO:root:2721  Crawling  PAGE 3
+INFO:root:2723  Crawling  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE4 抓取时间: 0:00:01.512332
+INFO:root:2723  Crawling SUCCESS PAGE4
+INFO:root:2723  PAGE4  mongodb bulk upsert finishes, consumes: 0:00:00.008691
+INFO:root:2722  PAGE2 抓取时间: 0:00:01.541093
+INFO:root:2722  Crawling SUCCESS PAGE2
+INFO:root:2721  PAGE3 抓取时间: 0:00:01.558308
+INFO:root:2721  Crawling SUCCESS PAGE3
+INFO:root:2722  PAGE2  mongodb bulk upsert finishes, consumes: 0:00:00.054329
+INFO:root:2723  PAGE4  mysql bulk insert finishes, consumes: 0:00:00.089481
+INFO:root:2723  Crawling  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE3  mongodb bulk upsert finishes, consumes: 0:00:00.034663
+INFO:root:2722  PAGE2  mysql bulk insert finishes, consumes: 0:00:00.115313
+INFO:root:2722  Crawling  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE3  mysql bulk insert finishes, consumes: 0:00:00.108688
+INFO:root:2721  Crawling  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE5 抓取时间: 0:00:01.506437
+INFO:root:2723  Crawling SUCCESS PAGE5
+INFO:root:2723  PAGE5  mongodb bulk upsert finishes, consumes: 0:00:00.016292
+INFO:root:2722  PAGE6 抓取时间: 0:00:01.486493
+INFO:root:2722  Crawling SUCCESS PAGE6
+INFO:root:2722  PAGE6  mongodb bulk upsert finishes, consumes: 0:00:00.010917
+INFO:root:2723  PAGE5  mysql bulk insert finishes, consumes: 0:00:00.144837
+INFO:root:2723  Crawling  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE7 抓取时间: 0:00:01.529575
+INFO:root:2721  Crawling SUCCESS PAGE7
+INFO:root:2722  PAGE6  mysql bulk insert finishes, consumes: 0:00:00.085859
+INFO:root:2722  Crawling  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE7  mongodb bulk upsert finishes, consumes: 0:00:00.008484
+INFO:root:2721  PAGE7  mysql bulk insert finishes, consumes: 0:00:00.052111
+INFO:root:2721  Crawling  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE8 抓取时间: 0:00:01.492505
+INFO:root:2723  Crawling SUCCESS PAGE8
+INFO:root:2723  PAGE8  mongodb bulk upsert finishes, consumes: 0:00:00.008094
+INFO:root:2723  PAGE8  mysql bulk insert finishes, consumes: 0:00:00.044843
+INFO:root:2723  Crawling  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE9 抓取时间: 0:00:01.513099
+INFO:root:2722  Crawling SUCCESS PAGE9
+INFO:root:2722  PAGE9  mongodb bulk upsert finishes, consumes: 0:00:00.007988
+INFO:root:2722  PAGE9  mysql bulk insert finishes, consumes: 0:00:00.050345
+INFO:root:2722  Crawling  PAGE 12
+INFO:root:2721  PAGE10 抓取时间: 0:00:01.524667
+INFO:root:2721  Crawling SUCCESS PAGE10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE10  mongodb bulk upsert finishes, consumes: 0:00:00.009472
+INFO:root:2721  PAGE10  mysql bulk insert finishes, consumes: 0:00:00.051960
+INFO:root:2721  Crawling  PAGE 13
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE11 抓取时间: 0:00:01.508182
+INFO:root:2723  Crawling SUCCESS PAGE11
+INFO:root:2723  PAGE11  mongodb bulk upsert finishes, consumes: 0:00:00.008151
+INFO:root:2723  PAGE11  mysql bulk insert finishes, consumes: 0:00:00.044394
+INFO:root:2723  Crawling  PAGE 14
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE12 抓取时间: 0:00:01.533115
+INFO:root:2722  Crawling SUCCESS PAGE12
+INFO:root:2722  PAGE12  mongodb bulk upsert finishes, consumes: 0:00:00.011199
+INFO:root:2721  PAGE13 抓取时间: 0:00:01.521453
+INFO:root:2721  Crawling SUCCESS PAGE13
+INFO:root:2722  PAGE12  mysql bulk insert finishes, consumes: 0:00:00.053004
+INFO:root:2722  Crawling  PAGE 15
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE13  mongodb bulk upsert finishes, consumes: 0:00:00.015142
+INFO:root:2721  PAGE13  mysql bulk insert finishes, consumes: 0:00:00.049965
+INFO:root:2721  Crawling  PAGE 16
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE14 抓取时间: 0:00:01.561941
+INFO:root:2723  Crawling SUCCESS PAGE14
+INFO:root:2723  PAGE14  mongodb bulk upsert finishes, consumes: 0:00:00.008302
+INFO:root:2723  PAGE14  mysql bulk insert finishes, consumes: 0:00:00.045034
+INFO:root:2723  Crawling  PAGE 17
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE15 抓取时间: 0:00:01.529623
+INFO:root:2722  Crawling SUCCESS PAGE15
+INFO:root:2722  PAGE15  mongodb bulk upsert finishes, consumes: 0:00:00.013029
+INFO:root:2721  PAGE16 抓取时间: 0:00:01.514616
+INFO:root:2721  Crawling SUCCESS PAGE16
+INFO:root:2721  PAGE16  mongodb bulk upsert finishes, consumes: 0:00:00.011881
+INFO:root:2722  PAGE15  mysql bulk insert finishes, consumes: 0:00:00.060140
+INFO:root:2722  Crawling  PAGE 18
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE16  mysql bulk insert finishes, consumes: 0:00:00.060700
+INFO:root:2721  Crawling  PAGE 19
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE17 抓取时间: 0:00:01.507203
+INFO:root:2723  Crawling SUCCESS PAGE17
+INFO:root:2723  PAGE17  mongodb bulk upsert finishes, consumes: 0:00:00.008273
+INFO:root:2723  PAGE17  mysql bulk insert finishes, consumes: 0:00:00.051282
+INFO:root:2723  Crawling  PAGE 20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE18 抓取时间: 0:00:01.512102
+INFO:root:2722  Crawling SUCCESS PAGE18
+INFO:root:2722  PAGE18  mongodb bulk upsert finishes, consumes: 0:00:00.009276
+INFO:root:2722  PAGE18  mysql bulk insert finishes, consumes: 0:00:00.047012
+INFO:root:2721  PAGE19 抓取时间: 0:00:01.513845
+INFO:root:2721  Crawling SUCCESS PAGE19
+INFO:root:2722  Crawling  PAGE 21
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE19  mongodb bulk upsert finishes, consumes: 0:00:00.008930
+INFO:root:2721  PAGE19  mysql bulk insert finishes, consumes: 0:00:00.051175
+INFO:root:2721  Crawling  PAGE 22
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE20 抓取时间: 0:00:01.494585
+INFO:root:2723  Crawling SUCCESS PAGE20
+INFO:root:2723  PAGE20  mongodb bulk upsert finishes, consumes: 0:00:00.008097
+INFO:root:2723  PAGE20  mysql bulk insert finishes, consumes: 0:00:00.047395
+INFO:root:2723  Crawling  PAGE 23
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE21 抓取时间: 0:00:01.520083
+INFO:root:2722  Crawling SUCCESS PAGE21
+INFO:root:2722  PAGE21  mongodb bulk upsert finishes, consumes: 0:00:00.008109
+INFO:root:2721  PAGE22 抓取时间: 0:00:01.497829
+INFO:root:2721  Crawling SUCCESS PAGE22
+INFO:root:2721  PAGE22  mongodb bulk upsert finishes, consumes: 0:00:00.009037
+INFO:root:2722  PAGE21  mysql bulk insert finishes, consumes: 0:00:00.049986
+INFO:root:2722  Crawling  PAGE 24
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE22  mysql bulk insert finishes, consumes: 0:00:00.054333
+INFO:root:2721  Crawling  PAGE 25
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE23 抓取时间: 0:00:01.532815
+INFO:root:2723  Crawling SUCCESS PAGE23
+INFO:root:2723  PAGE23  mongodb bulk upsert finishes, consumes: 0:00:00.008288
+INFO:root:2723  PAGE23  mysql bulk insert finishes, consumes: 0:00:00.044502
+INFO:root:2723  Crawling  PAGE 26
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE24 抓取时间: 0:00:01.548968
+INFO:root:2722  Crawling SUCCESS PAGE24
+INFO:root:2721  PAGE25 抓取时间: 0:00:01.504430
+INFO:root:2721  Crawling SUCCESS PAGE25
+INFO:root:2722  PAGE24  mongodb bulk upsert finishes, consumes: 0:00:00.008473
+INFO:root:2721  PAGE25  mongodb bulk upsert finishes, consumes: 0:00:00.008731
+INFO:root:2722  PAGE24  mysql bulk insert finishes, consumes: 0:00:00.044790
+INFO:root:2722  Crawling  PAGE 27
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE25  mysql bulk insert finishes, consumes: 0:00:00.051636
+INFO:root:2721  Crawling  PAGE 28
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE26 抓取时间: 0:00:01.532617
+INFO:root:2723  Crawling SUCCESS PAGE26
+INFO:root:2723  PAGE26  mongodb bulk upsert finishes, consumes: 0:00:00.009106
+INFO:root:2723  PAGE26  mysql bulk insert finishes, consumes: 0:00:00.052847
+INFO:root:2723  Crawling  PAGE 29
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE27 抓取时间: 0:00:01.514209
+INFO:root:2722  Crawling SUCCESS PAGE27
+INFO:root:2722  PAGE27  mongodb bulk upsert finishes, consumes: 0:00:00.009016
+INFO:root:2722  PAGE27  mysql bulk insert finishes, consumes: 0:00:00.049902
+INFO:root:2722  Crawling  PAGE 30
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE28 抓取时间: 0:00:01.539808
+INFO:root:2721  Crawling SUCCESS PAGE28
+INFO:root:2721  PAGE28  mongodb bulk upsert finishes, consumes: 0:00:00.007408
+INFO:root:2721  PAGE28  mysql bulk insert finishes, consumes: 0:00:00.050982
+INFO:root:2721  Crawling  PAGE 31
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE29 抓取时间: 0:00:01.532599
+INFO:root:2723  Crawling SUCCESS PAGE29
+INFO:root:2723  PAGE29  mongodb bulk upsert finishes, consumes: 0:00:00.008018
+INFO:root:2723  PAGE29  mysql bulk insert finishes, consumes: 0:00:00.044020
+INFO:root:2723  Crawling  PAGE 32
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE30 抓取时间: 0:00:01.525357
+INFO:root:2722  Crawling SUCCESS PAGE30
+INFO:root:2722  PAGE30  mongodb bulk upsert finishes, consumes: 0:00:00.007953
+INFO:root:2722  PAGE30  mysql bulk insert finishes, consumes: 0:00:00.042487
+INFO:root:2722  Crawling  PAGE 33
+INFO:root:2721  PAGE31 抓取时间: 0:00:01.515427
+INFO:root:2721  Crawling SUCCESS PAGE31
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE31  mongodb bulk upsert finishes, consumes: 0:00:00.007469
+INFO:root:2721  PAGE31  mysql bulk insert finishes, consumes: 0:00:00.048141
+INFO:root:2721  Crawling  PAGE 34
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE32 抓取时间: 0:00:01.522867
+INFO:root:2723  Crawling SUCCESS PAGE32
+INFO:root:2723  PAGE32  mongodb bulk upsert finishes, consumes: 0:00:00.009256
+INFO:root:2723  PAGE32  mysql bulk insert finishes, consumes: 0:00:00.044258
+INFO:root:2723  Crawling  PAGE 35
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE33 抓取时间: 0:00:01.531001
+INFO:root:2722  Crawling SUCCESS PAGE33
+INFO:root:2722  PAGE33  mongodb bulk upsert finishes, consumes: 0:00:00.008117
+INFO:root:2721  PAGE34 抓取时间: 0:00:01.519324
+INFO:root:2721  Crawling SUCCESS PAGE34
+INFO:root:2722  PAGE33  mysql bulk insert finishes, consumes: 0:00:00.047389
+INFO:root:2722  Crawling  PAGE 36
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE34  mongodb bulk upsert finishes, consumes: 0:00:00.009947
+INFO:root:2721  PAGE34  mysql bulk insert finishes, consumes: 0:00:00.049159
+INFO:root:2721  Crawling  PAGE 37
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  PAGE35 抓取时间: 0:00:01.526128
+INFO:root:2723  Crawling SUCCESS PAGE35
+INFO:root:2723  PAGE35  mongodb bulk upsert finishes, consumes: 0:00:00.008623
+INFO:root:2723  PAGE35  mysql bulk insert finishes, consumes: 0:00:00.050654
+INFO:root:2723  Crawling  PAGE 38
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  PAGE36 抓取时间: 0:00:01.541219
+INFO:root:2722  Crawling SUCCESS PAGE36
+INFO:root:2722  PAGE36  mongodb bulk upsert finishes, consumes: 0:00:00.007968
+INFO:root:2721  PAGE37 抓取时间: 0:00:01.535311
+INFO:root:2721  Crawling SUCCESS PAGE37
+INFO:root:2722  PAGE36  mysql bulk insert finishes, consumes: 0:00:00.050186
+INFO:root:2722  Crawling  PAGE 39
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  PAGE37  mongodb bulk upsert finishes, consumes: 0:00:00.010657
+INFO:root:2721  PAGE37  mysql bulk insert finishes, consumes: 0:00:00.087720
+INFO:root:2721  Crawling  PAGE 40
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2723  Crawling  PAGE 38
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2722  Crawling  PAGE 39
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2721  Crawling  PAGE 40
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PROXY 195.229.210.184  ID 2
+INFO:root:2735  PROXY 195.229.210.184  ID 2
+INFO:root:2734  PROXY 195.229.210.184  ID 2
+INFO:root:2736  Crawling  PAGE 1
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE1 抓取时间: 0:00:01.598271
+INFO:root:2736  Crawling SUCCESS PAGE1
+INFO:root:2736  PAGE1  mongodb bulk upsert finishes, consumes: 0:00:00.019946
+INFO:root:2736  PAGE1  mysql bulk insert finishes, consumes: 0:00:00.139183
+INFO:root:2734  Crawling  PAGE 2
+INFO:root:2735  Crawling  PAGE 3
+INFO:root:2736  Crawling  PAGE 4
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE4 抓取时间: 0:00:01.531817
+INFO:root:2736  Crawling SUCCESS PAGE4
+INFO:root:2736  PAGE4  mongodb bulk upsert finishes, consumes: 0:00:00.008558
+INFO:root:2734  PAGE2 抓取时间: 0:00:01.549938
+INFO:root:2734  Crawling SUCCESS PAGE2
+INFO:root:2735  PAGE3 抓取时间: 0:00:01.562434
+INFO:root:2735  Crawling SUCCESS PAGE3
+INFO:root:2734  PAGE2  mongodb bulk upsert finishes, consumes: 0:00:00.023097
+INFO:root:2735  PAGE3  mongodb bulk upsert finishes, consumes: 0:00:00.016329
+INFO:root:2736  PAGE4  mysql bulk insert finishes, consumes: 0:00:00.058625
+INFO:root:2736  Crawling  PAGE 5
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE2  mysql bulk insert finishes, consumes: 0:00:00.093632
+INFO:root:2734  Crawling  PAGE 6
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE3  mysql bulk insert finishes, consumes: 0:00:00.057157
+INFO:root:2735  Crawling  PAGE 7
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE5 抓取时间: 0:00:01.514569
+INFO:root:2736  Crawling SUCCESS PAGE5
+INFO:root:2736  PAGE5  mongodb bulk upsert finishes, consumes: 0:00:00.008573
+INFO:root:2736  PAGE5  mysql bulk insert finishes, consumes: 0:00:00.051459
+INFO:root:2736  Crawling  PAGE 8
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE6 抓取时间: 0:00:01.500151
+INFO:root:2734  Crawling SUCCESS PAGE6
+INFO:root:2734  PAGE6  mongodb bulk upsert finishes, consumes: 0:00:00.008200
+INFO:root:2734  PAGE6  mysql bulk insert finishes, consumes: 0:00:00.052944
+INFO:root:2734  Crawling  PAGE 9
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE7 抓取时间: 0:00:01.516179
+INFO:root:2735  Crawling SUCCESS PAGE7
+INFO:root:2735  PAGE7  mongodb bulk upsert finishes, consumes: 0:00:00.009505
+INFO:root:2735  PAGE7  mysql bulk insert finishes, consumes: 0:00:00.052880
+INFO:root:2735  Crawling  PAGE 10
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE8 抓取时间: 0:00:01.517576
+INFO:root:2736  Crawling SUCCESS PAGE8
+INFO:root:2736  PAGE8  mongodb bulk upsert finishes, consumes: 0:00:00.007959
+INFO:root:2736  PAGE8  mysql bulk insert finishes, consumes: 0:00:00.056078
+INFO:root:2734  PAGE9 抓取时间: 0:00:01.507894
+INFO:root:2734  Crawling SUCCESS PAGE9
+INFO:root:2736  Crawling  PAGE 11
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE9  mongodb bulk upsert finishes, consumes: 0:00:00.008679
+INFO:root:2735  PAGE10 抓取时间: 0:00:01.507270
+INFO:root:2735  Crawling SUCCESS PAGE10
+INFO:root:2734  PAGE9  mysql bulk insert finishes, consumes: 0:00:00.064274
+INFO:root:2734  Crawling  PAGE 12
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE10  mongodb bulk upsert finishes, consumes: 0:00:00.015908
+INFO:root:2735  PAGE10  mysql bulk insert finishes, consumes: 0:00:00.072789
+INFO:root:2735  Crawling  PAGE 13
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE11 抓取时间: 0:00:01.507528
+INFO:root:2736  Crawling SUCCESS PAGE11
+INFO:root:2736  PAGE11  mongodb bulk upsert finishes, consumes: 0:00:00.008223
+INFO:root:2736  PAGE11  mysql bulk insert finishes, consumes: 0:00:00.046539
+INFO:root:2736  Crawling  PAGE 14
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE12 抓取时间: 0:00:01.514645
+INFO:root:2734  Crawling SUCCESS PAGE12
+INFO:root:2734  PAGE12  mongodb bulk upsert finishes, consumes: 0:00:00.011632
+INFO:root:2734  PAGE12  mysql bulk insert finishes, consumes: 0:00:00.048497
+INFO:root:2734  Crawling  PAGE 15
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE13 抓取时间: 0:00:01.514764
+INFO:root:2735  Crawling SUCCESS PAGE13
+INFO:root:2735  PAGE13  mongodb bulk upsert finishes, consumes: 0:00:00.010905
+INFO:root:2735  PAGE13  mysql bulk insert finishes, consumes: 0:00:00.052447
+INFO:root:2735  Crawling  PAGE 16
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE14 抓取时间: 0:00:01.536187
+INFO:root:2736  Crawling SUCCESS PAGE14
+INFO:root:2736  PAGE14  mongodb bulk upsert finishes, consumes: 0:00:00.009081
+INFO:root:2736  PAGE14  mysql bulk insert finishes, consumes: 0:00:00.058916
+INFO:root:2736  Crawling  PAGE 17
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE15 抓取时间: 0:00:01.553248
+INFO:root:2734  Crawling SUCCESS PAGE15
+INFO:root:2734  PAGE15  mongodb bulk upsert finishes, consumes: 0:00:00.007736
+INFO:root:2734  PAGE15  mysql bulk insert finishes, consumes: 0:00:00.051102
+INFO:root:2735  PAGE16 抓取时间: 0:00:01.539153
+INFO:root:2735  Crawling SUCCESS PAGE16
+INFO:root:2734  Crawling  PAGE 18
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE16  mongodb bulk upsert finishes, consumes: 0:00:00.008263
+INFO:root:2735  PAGE16  mysql bulk insert finishes, consumes: 0:00:00.047766
+INFO:root:2735  Crawling  PAGE 19
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE17 抓取时间: 0:00:01.513579
+INFO:root:2736  Crawling SUCCESS PAGE17
+INFO:root:2736  PAGE17  mongodb bulk upsert finishes, consumes: 0:00:00.010037
+INFO:root:2736  PAGE17  mysql bulk insert finishes, consumes: 0:00:00.062440
+INFO:root:2736  Crawling  PAGE 20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE18 抓取时间: 0:00:01.515891
+INFO:root:2734  Crawling SUCCESS PAGE18
+INFO:root:2734  PAGE18  mongodb bulk upsert finishes, consumes: 0:00:00.007756
+INFO:root:2735  PAGE19 抓取时间: 0:00:01.503383
+INFO:root:2735  Crawling SUCCESS PAGE19
+INFO:root:2735  PAGE19  mongodb bulk upsert finishes, consumes: 0:00:00.012318
+INFO:root:2734  PAGE18  mysql bulk insert finishes, consumes: 0:00:00.060255
+INFO:root:2734  Crawling  PAGE 21
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE19  mysql bulk insert finishes, consumes: 0:00:00.057422
+INFO:root:2735  Crawling  PAGE 22
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE20 抓取时间: 0:00:01.576072
+INFO:root:2736  Crawling SUCCESS PAGE20
+INFO:root:2736  PAGE20  mongodb bulk upsert finishes, consumes: 0:00:00.009690
+INFO:root:2736  PAGE20  mysql bulk insert finishes, consumes: 0:00:00.060093
+INFO:root:2736  Crawling  PAGE 23
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE21 抓取时间: 0:00:01.582308
+INFO:root:2734  Crawling SUCCESS PAGE21
+INFO:root:2734  PAGE21  mongodb bulk upsert finishes, consumes: 0:00:00.009104
+INFO:root:2735  PAGE22 抓取时间: 0:00:01.539604
+INFO:root:2735  Crawling SUCCESS PAGE22
+INFO:root:2735  PAGE22  mongodb bulk upsert finishes, consumes: 0:00:00.012235
+INFO:root:2734  PAGE21  mysql bulk insert finishes, consumes: 0:00:00.058355
+INFO:root:2734  Crawling  PAGE 24
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE22  mysql bulk insert finishes, consumes: 0:00:00.066431
+INFO:root:2735  Crawling  PAGE 25
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE23 抓取时间: 0:00:01.512140
+INFO:root:2736  Crawling SUCCESS PAGE23
+INFO:root:2736  PAGE23  mongodb bulk upsert finishes, consumes: 0:00:00.009499
+INFO:root:2736  PAGE23  mysql bulk insert finishes, consumes: 0:00:00.056698
+INFO:root:2736  Crawling  PAGE 26
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE24 抓取时间: 0:00:01.566959
+INFO:root:2734  Crawling SUCCESS PAGE24
+INFO:root:2734  PAGE24  mongodb bulk upsert finishes, consumes: 0:00:00.009372
+INFO:root:2735  PAGE25 抓取时间: 0:00:01.528513
+INFO:root:2735  Crawling SUCCESS PAGE25
+INFO:root:2735  PAGE25  mongodb bulk upsert finishes, consumes: 0:00:00.013856
+INFO:root:2734  PAGE24  mysql bulk insert finishes, consumes: 0:00:00.054885
+INFO:root:2734  Crawling  PAGE 27
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE25  mysql bulk insert finishes, consumes: 0:00:00.055781
+INFO:root:2735  Crawling  PAGE 28
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE26 抓取时间: 0:00:01.653198
+INFO:root:2736  Crawling SUCCESS PAGE26
+INFO:root:2736  PAGE26  mongodb bulk upsert finishes, consumes: 0:00:00.009342
+INFO:root:2734  PAGE27 抓取时间: 0:00:01.550575
+INFO:root:2734  Crawling SUCCESS PAGE27
+INFO:root:2736  PAGE26  mysql bulk insert finishes, consumes: 0:00:00.048645
+INFO:root:2736  Crawling  PAGE 29
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE27  mongodb bulk upsert finishes, consumes: 0:00:00.008389
+INFO:root:2734  PAGE27  mysql bulk insert finishes, consumes: 0:00:00.051160
+INFO:root:2734  Crawling  PAGE 30
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE28 抓取时间: 0:00:01.619784
+INFO:root:2735  Crawling SUCCESS PAGE28
+INFO:root:2735  PAGE28  mongodb bulk upsert finishes, consumes: 0:00:00.008314
+INFO:root:2735  PAGE28  mysql bulk insert finishes, consumes: 0:00:00.051828
+INFO:root:2735  Crawling  PAGE 31
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE29 抓取时间: 0:00:01.526920
+INFO:root:2736  Crawling SUCCESS PAGE29
+INFO:root:2736  PAGE29  mongodb bulk upsert finishes, consumes: 0:00:00.007763
+INFO:root:2736  PAGE29  mysql bulk insert finishes, consumes: 0:00:00.063159
+INFO:root:2734  PAGE30 抓取时间: 0:00:01.546418
+INFO:root:2734  Crawling SUCCESS PAGE30
+INFO:root:2736  Crawling  PAGE 32
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE30  mongodb bulk upsert finishes, consumes: 0:00:00.008818
+INFO:root:2734  PAGE30  mysql bulk insert finishes, consumes: 0:00:00.053697
+INFO:root:2734  Crawling  PAGE 33
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE31 抓取时间: 0:00:01.518717
+INFO:root:2735  Crawling SUCCESS PAGE31
+INFO:root:2735  PAGE31  mongodb bulk upsert finishes, consumes: 0:00:00.008847
+INFO:root:2735  PAGE31  mysql bulk insert finishes, consumes: 0:00:00.050151
+INFO:root:2735  Crawling  PAGE 34
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE32 抓取时间: 0:00:01.524945
+INFO:root:2736  Crawling SUCCESS PAGE32
+INFO:root:2736  PAGE32  mongodb bulk upsert finishes, consumes: 0:00:00.007947
+INFO:root:2736  PAGE32  mysql bulk insert finishes, consumes: 0:00:00.050979
+INFO:root:2736  Crawling  PAGE 35
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE33 抓取时间: 0:00:01.675945
+INFO:root:2734  Crawling SUCCESS PAGE33
+INFO:root:2734  PAGE33  mongodb bulk upsert finishes, consumes: 0:00:00.008993
+INFO:root:2734  PAGE33  mysql bulk insert finishes, consumes: 0:00:00.055752
+INFO:root:2734  Crawling  PAGE 36
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE34 抓取时间: 0:00:01.735870
+INFO:root:2735  Crawling SUCCESS PAGE34
+INFO:root:2735  PAGE34  mongodb bulk upsert finishes, consumes: 0:00:00.008094
+INFO:root:2735  PAGE34  mysql bulk insert finishes, consumes: 0:00:00.052310
+INFO:root:2735  Crawling  PAGE 37
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE35 抓取时间: 0:00:01.537563
+INFO:root:2736  Crawling SUCCESS PAGE35
+INFO:root:2736  PAGE35  mongodb bulk upsert finishes, consumes: 0:00:00.008051
+INFO:root:2736  PAGE35  mysql bulk insert finishes, consumes: 0:00:00.051844
+INFO:root:2736  Crawling  PAGE 38
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE36 抓取时间: 0:00:01.522069
+INFO:root:2734  Crawling SUCCESS PAGE36
+INFO:root:2734  PAGE36  mongodb bulk upsert finishes, consumes: 0:00:00.008649
+INFO:root:2734  PAGE36  mysql bulk insert finishes, consumes: 0:00:00.052535
+INFO:root:2734  Crawling  PAGE 39
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE37 抓取时间: 0:00:01.534702
+INFO:root:2735  Crawling SUCCESS PAGE37
+INFO:root:2735  PAGE37  mongodb bulk upsert finishes, consumes: 0:00:00.007509
+INFO:root:2735  PAGE37  mysql bulk insert finishes, consumes: 0:00:00.046322
+INFO:root:2735  Crawling  PAGE 40
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE38 抓取时间: 0:00:01.528461
+INFO:root:2736  Crawling SUCCESS PAGE38
+INFO:root:2736  PAGE38  mongodb bulk upsert finishes, consumes: 0:00:00.010523
+INFO:root:2736  PAGE38  mysql bulk insert finishes, consumes: 0:00:00.063239
+INFO:root:2736  Crawling  PAGE 41
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  Crawling  PAGE 39
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  Crawling  PAGE 40
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  Crawling  PAGE 41
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  PAGE39 抓取时间: 0:01:06.055457
+INFO:root:2734  PROXY 109.69.2.125  ID 4
+INFO:root:2734  Crawling  PAGE 42
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  PAGE40 抓取时间: 0:01:07.373907
+INFO:root:2735  PROXY 109.69.2.125  ID 4
+INFO:root:2735  Crawling  PAGE 43
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  PAGE41 抓取时间: 0:01:14.494189
+INFO:root:2736  PROXY 109.69.2.125  ID 4
+INFO:root:2736  Crawling  PAGE 44
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2734  Crawling  PAGE 42
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2735  Crawling  PAGE 43
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com
+INFO:root:2736  Crawling  PAGE 44
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTPS connection (1): api.stackexchange.com

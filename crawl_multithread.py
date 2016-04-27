@@ -156,6 +156,7 @@ def crawling(page, pro):
 
         res = requests_get(page, fromdate=fromdate, todate=todate)
         if not res or res.status_code != 200:
+            print threading.currentThread().getName()+'  返回码:  '+str(res.status_code)+'  '+str(res.text)
             res = requests_get(page, fromdate=fromdate, todate=todate,
                                proxies={'https': 'https://%s:%s' % (pro['ip'], pro['port'])})
         c_finish = datetime.now()
